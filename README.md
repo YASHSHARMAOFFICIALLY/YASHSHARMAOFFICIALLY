@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YASHSHARMAOFFICIALLY
 - 👀 I’m interested in computer science 
-- 🌱 I’m currently learning web devlopment 
+- 🌱 I’m currently learning Dsa And Machine Learning
 - EMail ;- yashsharmaofficially@gmail.com
 
 <!---
