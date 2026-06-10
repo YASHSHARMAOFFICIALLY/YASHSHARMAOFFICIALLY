@@ -2,7 +2,8 @@
 
 **Full-Stack & Solana Developer from Mumbai, India** — I build and ship web products, write Anchor programs on Solana, and contribute to open-source projects used in the real world.
 
-- 🔭 Currently building **[FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow)** — a personal-finance learning platform with 65+ community PRs reviewed & merged
+- 🔭 Currently building **[NutriAI](https://mynutriai.app)** — a nutrition tracking app that helps people understand what they eat and stay consistent with their health goals
+- 💸 Built **[FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow)** — a personal-finance learning platform, maintained with 65+ community PRs reviewed & merged
 - ⚓ Learning Solana program development — vaults, escrows, NFT minting with Anchor
 - 🌍 Portfolio: **[buildwithyash.com](https://buildwithyash.com)**
 
