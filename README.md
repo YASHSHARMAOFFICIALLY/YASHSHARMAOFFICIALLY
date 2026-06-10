@@ -39,6 +39,7 @@ A musical microworld teaching kids programming through music.
 
 | Project | What it does | Stack | Live |
 |---------|-------------|-------|------|
+| **[NutriAI](https://github.com/YASHSHARMAOFFICIALLY/mynutriai)** | Nutrition tracking app — understand what you eat, log meals faster, stay consistent with health goals | Next.js, Node.js, PostgreSQL, Redis | [mynutriai.app](https://mynutriai.app) |
 | **FinanceFlow** | Personal-finance learning & management platform — 12 ⭐, 65+ community PRs merged | Next.js, Prisma, Better Auth, Tailwind | [demo](https://finnanceflow.buildwithyash.com/) |
 | **Argoya Assam** | Anemia screening via questionnaire (no lab test) + nearby-hospital finder | Next.js, TypeScript | [demo](https://argoya-assam.vercel.app) |
 | **Solana HD Wallet** | Multi-chain HD wallet generator — keys created & managed fully client-side | TypeScript, Solana web3.js | [demo](https://hdwallet.buildwithyash.com) |
