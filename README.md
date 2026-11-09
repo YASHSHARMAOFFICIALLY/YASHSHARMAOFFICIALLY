@@ -1,57 +1,35 @@
-# Hi, I'm Yash Sharma 👋
+# Hi, I'm Yash Sharma
 
-**Full-Stack & Solana Developer from Mumbai, India** — I build and ship web products, write Anchor programs on Solana, and contribute to open-source projects used in the real world.
+I'm a backend-leaning full stack engineer from Mumbai. I build with Node, TypeScript, Go, Python and Postgres, and I'm looking for remote software engineer roles.
 
-- 🔭 Currently building **[NutriAI](https://mynutriai.app)** — a nutrition tracking app that helps people understand what they eat and stay consistent with their health goals
-- 💸 Built **[FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow)** — a personal-finance learning platform, maintained with 65+ community PRs reviewed & merged
-- ⚓ Learning Solana program development — vaults, escrows, NFT minting with Anchor
-- 🌍 Portfolio: **[buildwithyash.com](https://buildwithyash.com)**
+## Current work
 
----
+- Software engineer at Palette (YC S26).
+- [cuckoo.agency](https://cuckoo.agency): my freelance agency.
+- Pip: a series explaining how backends work.
 
-## 🛠 Open Source Contributions
+## Proof of work
 
-**26 merged pull requests** across two major open-source organizations:
+- 26 merged pull requests in open source: 16 in [Sugar Labs Music Blocks](https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3AYASHSHARMAOFFICIALLY+is%3Amerged) and 10 in [Medic CHT Core](https://github.com/medic/cht-core/pulls?q=is%3Apr+author%3AYASHSHARMAOFFICIALLY+is%3Amerged)
+- [FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow): a personal finance learning platform with 65+ community PRs merged
+- TU Ankaja: a hardware random number generator built for the IEEE MYOSA Innovation Challenge, passing 15/15 NIST SP 800-22 tests. Paper selected for IEEE MYOSA 6.0 (IEEE Sensors Council), Netherlands.
+- 1st place at TEZHACK 2026, Tezpur University (Team CUCKOO), for a [public issue resolution tracker](https://github.com/YASHSHARMAOFFICIALLY/Tu-Hackathon)
+- 2nd place at a hackathon at JEC
 
-### [Sugar Labs — Music Blocks](https://github.com/sugarlabs/musicblocks) (16 merged)
-A musical microworld teaching kids programming through music.
+## Tech I use
 
-- [security: require explicit consent before sending project data](https://github.com/sugarlabs/musicblocks/pull/7213)
-- [security: replace window.parent access with postMessage bridge](https://github.com/sugarlabs/musicblocks/pull/7209)
-- [perf: debounce project rename to avoid repeated full DB writes](https://github.com/sugarlabs/musicblocks/pull/7292)
-- [+13 more merged PRs](https://github.com/sugarlabs/musicblocks/pulls?q=is%3Apr+author%3AYASHSHARMAOFFICIALLY+is%3Amerged)
+TypeScript, Node.js, Go, Python, Rust, PostgreSQL, Redis, MongoDB, Prisma, Drizzle, Next.js, React, Tailwind, Solana (Anchor)
 
-### [Medic — CHT Core](https://github.com/medic/cht-core) (10 merged)
-Digital health platform powering community health workers in low-resource settings.
+## Projects
 
-- [feat: route file attachments to correct sub-docs in report forms](https://github.com/medic/cht-core/pull/10922)
-- [feat: accent color and styling support for UI extensions](https://github.com/medic/cht-core/pull/10918)
-- [+8 more merged PRs](https://github.com/medic/cht-core/pulls?q=is%3Apr+author%3AYASHSHARMAOFFICIALLY+is%3Amerged)
+- [FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow): personal finance learning and management app.
+- [Os First Mate](https://github.com/YASHSHARMAOFFICIALLY/Os-First-mate): dashboard for open source maintainers with daily briefs, issue triage and duplicate detection.
+- [CloseRouter](https://github.com/YASHSHARMAOFFICIALLY/CloseRouter): open source LLM gateway, an alternative to OpenRouter.
+- [Arogya Assam](https://github.com/YASHSHARMAOFFICIALLY/Argoya_Assam): anemia screening by questionnaire, no lab test, with nearby hospitals.
+- [TU Ankaja](https://github.com/YASHSHARMAOFFICIALLY/myosa-tu-ankaja): true random numbers from sensor and MOSFET noise, processed by a Rust engine over MQTT.
+- [Anchor Escrow](https://github.com/YASHSHARMAOFFICIALLY/Anchor-Escrow): Solana program for swapping two SPL tokens between a maker and a taker.
 
----
-
-## 🚀 Projects
-
-| Project | What it does | Stack | Live |
-|---------|-------------|-------|------|
-| **[NutriAI](https://github.com/YASHSHARMAOFFICIALLY/mynutriai)** | Nutrition tracking app — understand what you eat, log meals faster, stay consistent with health goals | Next.js, Node.js, PostgreSQL, Redis | [mynutriai.app](https://mynutriai.app) |
-| **[FinanceFlow](https://github.com/YASHSHARMAOFFICIALLY/FinanceFlow)** | Personal-finance learning & management platform — 12 ⭐, 65+ community PRs merged | Next.js, Prisma, Better Auth, Tailwind | [demo](https://finnanceflow.buildwithyash.com/) |
-| **[Escrow](https://github.com/YASHSHARMAOFFICIALLY/Escrow)** | Anchor escrow program on Solana for trustless SPL token swaps | Rust, Anchor | — |
-| **[OS First Mate](https://github.com/YASHSHARMAOFFICIALLY/Os-First-mate)** | AI command center for open-source maintainers — briefs, triage, contributor health | Next.js, TypeScript | [demo](https://os-first-mate.vercel.app) |
-
----
-
-## 🧰 Tech Stack
-
-`TypeScript` `Rust` `React` `Next.js` `Node.js` `Solana` `Anchor` `PostgreSQL` `Prisma` `MongoDB` `Tailwind CSS` `Express`
-
----
-
-## 📊 GitHub Stats
-
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YASHSHARMAOFFICIALLY&show_icons=true&theme=default&rank_icon=github)
-
-## 📫 Reach me
+## Contact
 
 - Portfolio: [buildwithyash.com](https://buildwithyash.com)
-- GitHub: [@YASHSHARMAOFFICIALLY](https://github.com/YASHSHARMAOFFICIALLY)
+- Email: yashsharmaofficially@gmail.com
