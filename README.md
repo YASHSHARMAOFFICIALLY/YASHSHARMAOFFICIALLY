@@ -1,12 +1,12 @@
 # Hi, I'm Yash Sharma
 
-I'm a backend-leaning full stack engineer from Mumbai. I build with Node, TypeScript, Go, Python and Postgres, and I'm looking for remote software engineer roles.
+I'm a backend-leaning full stack engineer from Mumbai. I build with Node, TypeScript, Go, Python and Postgres, and 
 
 ## Current work
 
 - Software engineer at Palette (YC S26).
 - [cuckoo.agency](https://cuckoo.agency): my freelance agency.
-- Pip: a series explaining how backends work.
+
 
 ## Proof of work
 
