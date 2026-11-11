@@ -1,6 +1,6 @@
 # Hi, I'm Yash Sharma
 
-I'm a backend-leaning full stack engineer from Mumbai. I build with Node, TypeScript, Go, Python and Postgres, and 
+I'm a backend engineer from Mumbai. I build with Node, TypeScript, Go, Python and Postgres, and 
 
 ## Current work
 
